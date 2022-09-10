@@ -18,7 +18,7 @@
 		<text>Напомни-ка мне, куда ведут маршруты?</text>
 	</string>
 	<string id="meet_ds_killer_guide_main_base_list_1">
-		<text>На Затоне есть станция очистная станция - туда за 8,000 рублей.</text>
+		<text>На Затоне есть очистная станция - туда за 8,000 рублей.</text>
 	</string>
 	<string id="travel_ds_killer_guide_main_base_0">
 		<text>Я хочу уйти из города.</text>
@@ -82,7 +82,7 @@
 		<text>ВСУ'шные, 15 штук.</text>
 	</string>
 	<string id="lottery_ds_aslan_mlr_50">
-		<text>Мерковские, 15 штук.</text>
+		<text>Наймовские, 15 штук.</text>
 	</string>
 	<string id="lottery_ds_aslan_mlr_53">
 		<text>Ренегатовсие, 15 штук.</text>
